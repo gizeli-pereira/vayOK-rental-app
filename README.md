@@ -1,1 +1,0 @@
-# vayOK-rental-app
